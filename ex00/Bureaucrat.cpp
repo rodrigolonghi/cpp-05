@@ -1,5 +1,7 @@
 #include "Bureaucrat.hpp"
 
+Bureaucrat::Bureaucrat() {}
+
 Bureaucrat::~Bureaucrat() {}
 
 Bureaucrat::Bureaucrat(Bureaucrat const &src) {

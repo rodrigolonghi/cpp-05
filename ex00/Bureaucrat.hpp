@@ -11,6 +11,7 @@ class Bureaucrat {
 		short				grade;
 
 	public:
+		Bureaucrat();
 		~Bureaucrat();
 		Bureaucrat(Bureaucrat const &src);
 		Bureaucrat(std::string name, short grade);
