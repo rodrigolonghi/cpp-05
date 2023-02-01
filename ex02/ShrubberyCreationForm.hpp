@@ -1,5 +1,5 @@
-#ifndef SHRUBERRYCREATIONFORM_H
-# define SHRUBERRYCREATIONFORM_H
+#ifndef SHRUBERRYCREATIONFORM_HPP
+#define SHRUBERRYCREATIONFORM_HPP
 
 #include "AForm.hpp"
 #include <fstream>
