@@ -1,6 +1,6 @@
 #include "Form.hpp"
 
-Form::Form() : name("Jhonson"), isSigned(false), gradeToSign(42), gradeToExecute(42) {}
+Form::Form() : name("FormA"), isSigned(false), gradeToSign(42), gradeToExecute(42) {}
 
 Form::Form(Form const &src) :
 	name(src.getName()),
